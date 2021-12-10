@@ -14,8 +14,10 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 Multiples services use for deploying and make it possible
+```
 1-Pinata
 2-Alchemy
 3-OpenZeppelin (ERC721)
 4-HardHat
 5-Metamask wallet
+```
